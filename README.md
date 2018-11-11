@@ -2,5 +2,7 @@
 
 # EXAMPLE
 
-	$ clisp example.lisp
-	The current UNIX Epoch time is 1342211409
+```console
+$ clisp example.lisp
+The current UNIX Epoch time is 1342211409
+```
